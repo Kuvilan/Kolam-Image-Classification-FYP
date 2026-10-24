@@ -1,1 +1,1 @@
-# Candidate-Labelling-Code
+# Kolam Image Classification Final Year Project
